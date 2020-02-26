@@ -10,10 +10,10 @@
 <li>PostgreSQL</li>
 </ul>
 
-<h2>Команда разработчиков</h2>
+<h2>Команда разработчиков : </h2>
 <a href="https://github.com/YaJProgrammist">Екатерина Ленская</a> - <i>position</i>
 <br><a href="https://github.com/OlesiaPashko">Олеся Пашко</a> - <i>position</i>
 <br><a href="https://github.com/Pyrohova">София Пирогова</a> - <i>position</i>
 
-<h2>Потенциальные пользователи :</h2>
+<h2>Потенциальные пользователи : </h2>
 <p>Подходит для пользователей любого возраста и рода деятельности.
